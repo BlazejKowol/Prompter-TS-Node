@@ -10,5 +10,8 @@
     },
     "scripts": {
         "watch": "nodemon"
-      }
+    },
+    "dependencies": {
+        "consola": "^2.15.3"
+    }
 }
