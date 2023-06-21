@@ -12,6 +12,7 @@
         "watch": "nodemon"
     },
     "dependencies": {
-        "consola": "^2.15.3"
+        "consola": "^2.15.3",
+        "shortid": "^2.2.16"
     }
 }
